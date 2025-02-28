@@ -2,8 +2,6 @@
 
 I'm Sajid Hafeez, an enthusiastic data scientist dedicated to helping companies accelerate their growth through machine learning and AI tools.
 ![Profile Views](https://komarev.com/ghpvc/?username=Sajid-hafeez)
-![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajid-hafeez&count_private=true&show_icons=true&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajid-hafeez&layout=compact)
 
 ## Contact Me
 
